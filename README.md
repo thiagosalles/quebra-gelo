@@ -2,7 +2,7 @@
 
 Esse projeto foi criado para facilitar o quebra-gelo da reunião de onboard de novos devs no time de desenvolvimento.
 
-Abra o arquivo `App.js` e personalize as perguntas e o nome das pessoas. Por enquanto é tudo hard-coded.
+Abra o arquivo `people.js` e personalize o nome das pessoas participantes. Por enquanto é tudo hard-coded.
 
 Rode o projeto com `yarn start`
 
