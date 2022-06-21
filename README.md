@@ -12,6 +12,9 @@ http://localhost:3000/?team=Messaging
 
 ![demo](demo.gif)
 
+Referências:
+- [Asana - Mais de 110 perguntas “quebra-gelo” para fortalecer o espírito de equipe](https://asana.com/pt/resources/icebreaker-questions-team-building)
+
 <hr />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

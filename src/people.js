@@ -2,7 +2,9 @@ const people = [
 	"André",
 	"Breno",
 	"Daniel",
+	"Kaio",
 	"Michel",
+	"Pena",
 	"Thiago"
 ];
 
