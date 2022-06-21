@@ -10,6 +10,8 @@ Abra a página com esse link para exibir o nome do time:
 
 http://localhost:3000/?team=Messaging
 
+![demo](demo.gif)
+
 <hr />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
