@@ -16,8 +16,17 @@ function App() {
   const [currentQuestion, setCurrentQuestion] = useState(`Quebra-Gelo${teamName ? ` de ${teamName}` : ''}`)
   
   const showRandomQuestion = () => {
-    setCurrentPerson(people.random())
-    setCurrentQuestion(questions.random())
+    let newPerson = null
+    do {
+      newPerson = people.random()
+    } while (newPerson === currentPerson)
+    setCurrentPerson(newPerson)
+
+    let newQuestion = null
+    do {
+      newQuestion = questions.random()
+    } while (newQuestion === currentQuestion)
+    setCurrentQuestion(newQuestion)
   }
 
   return (
