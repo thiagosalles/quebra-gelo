@@ -41,7 +41,7 @@ function App() {
           {currentQuestion}
         </p>
         <button className="App-link" onClick={showRandomQuestion}>
-          {(currentQuestion && "Próxima pergunta") || "Começar"}
+          {(currentPerson && "Próxima pergunta") || "Começar"}
         </button>
       </header>
     </div>

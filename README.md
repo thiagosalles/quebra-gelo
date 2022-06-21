@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Quebra-Gelo
+
+Esse projeto foi criado para facilitar o quebra-gelo da reunião de onboard de novos devs no time de desenvolvimento.
+
+Abra o arquivo `App.js` e personalize as perguntas e o nome das pessoas. Por enquanto é tudo hard-coded.
+
+Rode o projeto com `yarn start`
+
+Abra a página com esse link para exibir o nome do time:
+
+http://localhost:3000/?team=Messaging
+
+<hr />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
