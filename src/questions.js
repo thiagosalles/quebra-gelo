@@ -126,12 +126,7 @@ const questions = [
 	"O que você faz para combater o estresse?",
 	"Qual é a coisa mais surpreendente que aconteceu com você em outro país?",
 	"Conte-nos algo sobre você que surpreenderia a maioria das pessoas no seu círculo de convivência.",
-	"Descreva uma experiência de vida que mudou os seus valores.",
-
-	// Programação
-	"Indentação com tabs ou espaços? Se espaços, quantos?",
-	"Qual sua linguagem de programação preferida?",
-	"Front-end ou Back-end?"
+	"Descreva uma experiência de vida que mudou os seus valores."
 ];
 
 export default questions;
